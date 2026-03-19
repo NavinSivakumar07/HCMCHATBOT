@@ -1,0 +1,13 @@
+streamlit
+pinecone
+groq
+google-genai
+python-dotenv
+requests
+beautifulsoup4
+numpy
+pandas
+crawl4ai
+playwright
+aiohttp
+aiofiles
